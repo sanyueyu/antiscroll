@@ -2,9 +2,9 @@
   "name": "chromescroll",
   "version": "1.0.1",
   "main": [
-    "deps/jquery-mousewheel.js",
-    "antiscroll.js",
-    "antiscroll.css"
+    "./deps/jquery-mousewheel.js",
+    "./antiscroll.js",
+    "./antiscroll.css"
   ],
   "ignore": [
     ".jshintrc",
