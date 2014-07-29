@@ -8,11 +8,19 @@
   ],
   "ignore": [
     ".jshintrc",
-    "**/*.txt"
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
-  "dependencies": {
-  },
   "devDependencies": {
     "jquery": ">= 1.9.0"
-  }
+  },
+  "homepage": "https://github.com/sanyueyu/antiscroll",
+  "authors": [
+    "Haosong Li <lihaosong@admaster.com.cn>"
+  ],
+  "license": "MIT"
 }
