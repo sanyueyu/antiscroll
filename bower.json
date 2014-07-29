@@ -1,6 +1,6 @@
 {
-  "name": "my-project",
-  "version": "1.0.0",
+  "name": "chromescroll",
+  "version": "1.0.1",
   "main": [
     "deps/jquery-mousewheel.js",
     "antiscroll.js",
