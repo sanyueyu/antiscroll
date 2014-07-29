@@ -257,7 +257,7 @@
 
   Scrollbar.prototype.show = function (duration) {
     if (!this.shown && this.update()) {
-      this.el.addClass('antiscroll-scrollbar-shown');
+      /*this.el.addClass('antiscroll-scrollbar-shown');*/
       if (this.hiding) {
         clearTimeout(this.hiding);
         this.hiding = null;
